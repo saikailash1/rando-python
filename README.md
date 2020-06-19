@@ -1,1 +1,1 @@
-# rando-python
+# Some random(sample) python codes
